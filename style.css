@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+#para{
+    text-align: center;
+    color: grey;
+}
+#intro{
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+}
+#or{
+   text-align: center; 
+}
+button{
+    background-color: green;
+    width: 50%;
+    padding: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+form{
+    text-align: center;
+}
+input{
+    width: 60%;
+    padding: 8px;
+}
